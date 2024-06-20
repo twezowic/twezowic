@@ -7,16 +7,17 @@ W trakcie studiów programowałem w językach Python, Java, C#, C++ oraz Javascr
 Projekty:
 - odwzorowanie gry Bejeweled: Python
 - symulator metra w postaci określania najkrótszych tras dla pasażerów na podstawie grafu: c++, javascript
-- aplikacja webowa do zarządzania bibliotekami: Java, jbdc, SQL: Oracle 
+- aplikacja webowa do zarządzania bibliotekami: Java, jbdc, Oracle, PL/SQL
 - aplikacja webowa do ząrządzenia cukiernią: React.JS, SQL: mysql
 - aplikacja webowa do zarządzenia przychodnią: .NET MVC, React.JS
 - aplikacja webowa dla sklepu internetowego: Java, React.JS, NoSQL Cassandra
 - aplikacja do reprezentacji renderu stero: Python, OpenGL
 - gra RTS: Unreal Engine 5
-- (w trakcie) aplikacja webowa do tłumaczenia na żywo wykładów: React.JS, Python, SQL: Oracle
-- (w trakcie) stworzenie model do tworzenia playlist piosenek dla szerokiej grupy odbiorców: Python, Jupiter Notebook
+- aplikacja webowa do tłumaczenia na żywo wykładów: React.JS, Python, Oracle, PL/SQL
+- stworzenie modelu uczenia maszynowego do tworzenia playlist zawierających popularne utwory: Python, Jupiter Notebook, Pandas, scikit-learn
+- wrapper do biblioteki FFmpeg
   
-Dodatkowo realizowałem mniejsze projekty w pythonie z uczenia maszynowego oraz struktur danych.
+Dodatkowo realizowałem mniejsze projekty w pythonie z uczenia maszynowego oraz struktur danych wykorzystując biblioteki numpy, pandas, scikit-learn.
 
 
 [EN]
@@ -34,7 +35,7 @@ Projects:
 - web application for an online store: Java, React.JS, NoSQL Cassandra
 - app representling stereo render: Python, OpenGL
 - RTS game: Unreal Engine 5
-- (in progress) web application for live translation of lectures: React.JS, Python, SQL: Oracle
-- (in progress) model for creating playlists of songs for a wide audience: Python, Jupiter Notebook
+- web application for live translation of lectures: React.JS, Python, SQL: Oracle
+- machine learning model for creating playlists of popular songs: Python, Jupiter Notebook, Pandas, scikit-learn
   
-Additionally, I carried out smaller projects in Python in machine learning and data structures.
+Additionally, I carried out smaller projects in Python in machine learning and data structures using numpy, pandas and scikit-learn libraries.
