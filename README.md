@@ -1,6 +1,6 @@
 [PL]
 
-Studiuję Informatykę na Politechnice Warszawskiej na 6 semestrze.
+Studiuję Informatykę na Politechnice Warszawskiej na 7 semestrze.
 
 W trakcie studiów programowałem w językach Python, Java, C#, C++ oraz Javascript. Poznałem zarządzanie w chmurze Azure oraz zasady projektowania zwinnego.
 
@@ -19,10 +19,11 @@ Projekty:
   
 Dodatkowo realizowałem mniejsze projekty w pythonie z uczenia maszynowego oraz struktur danych wykorzystując biblioteki numpy, pandas, scikit-learn.
 
+Uczestniczyłem w hackatonie HackArena 2.0 i nasz zespół zajął 4 miejsce.
 
 [EN]
 
-I am currently studying Computer Science at the Warsaw University of Technology in the 6th semester.
+I am currently studying Computer Science at the Warsaw University of Technology in the 7th semester.
 
 During my studies, I programmed in Python, Java, C#, C++ and Javascript. I learned about Azure cloud management and agile design principles.
 
@@ -39,3 +40,5 @@ Projects:
 - machine learning model for creating playlists of popular songs: Python, Jupiter Notebook, Pandas, scikit-learn
   
 Additionally, I carried out smaller projects in Python in machine learning and data structures using numpy, pandas and scikit-learn libraries.
+
+I participated in the HackArena 2.0 hackathon and our team took 4th place.
