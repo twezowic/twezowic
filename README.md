@@ -18,6 +18,7 @@ Projekty:
 - aplikacja webowa do tłumaczenia na żywo wykładów: React.JS, Python, Oracle, PL/SQL
 - stworzenie modelu uczenia maszynowego do tworzenia playlist zawierających popularne utwory: Python, Jupiter Notebook, Pandas, scikit-learn
 - wrapper do biblioteki FFmpeg
+- model radaru: Python, PyQt5
 - Program CAD do projektowania modeli z klocków: React.JS, three.js, Python, Fast API, MongoDB
   
 Dodatkowo realizowałem mniejsze projekty w pythonie z uczenia maszynowego oraz struktur danych wykorzystując biblioteki numpy, pandas, scikit-learn.
@@ -42,6 +43,7 @@ Projects:
 - RTS game: Unreal Engine 5
 - web application for live translation of lectures: React.JS, Python, SQL: Oracle
 - machine learning model for creating playlists of popular songs: Python, Jupiter Notebook, Pandas, scikit-learn
+- radar model: Python, PyQt5
 - CAD software for designing models from bricks: React.JS, three.js, Python, Fast API, MongoDB
   
 Additionally, I carried out smaller projects in Python in machine learning and data structures using numpy, pandas and scikit-learn libraries.
