@@ -1,12 +1,25 @@
 [PL]
 
-Obecnie studiuję Informatykę na studiach magisterskich na Politechnice Warszawskiej na 1 semestrze.
+Obecnie studiuję Informatykę na studiach magisterskich na Politechnice Warszawskiej na 2 semestrze.
 Uzyskałem stopień Inżyniera na Politechnice Warszawskiej z Informatyki.
 
 W trakcie studiów programowałem w językach Python, Java, C#, C++ oraz Javascript. 
-Poznałem zarządzanie w chmurze Azure oraz zasady projektowania zwinnego.
+Poznałem zarządzanie w chmurze Azure oraz zasady projektowania Agile.
 
-Projekty:
+# Projekty:
+
+## STUDIA MAGISTERSKIE
+- Badanie wpływu uczenia półnadzorowanego na jakość wyników; Python, scikit-learn  
+- Analiza modeli wykrywających muzykę generowaną przez sztuczną inteligencję; Python, librosa, audiomentations  
+- Strojenie hiperparametrów algorytmu ewolucji różnicowej z wykorzystaniem Q-learningu; Python  
+- Projekty z zakresu sztucznych sieci neuronowych: regresja, klasyfikacja, klasyfikacja obrazów, sieci GAN, VAE, modele dyfuzyjne, sieci rekurencyjne, przetwarzanie języka naturalnego, transformery  
+- Projekty z zastosowaniem sztucznych sieci neuronowych w grafice komputerowej: inpainting, super-resolution, mapowanie tonalne, neural rendering, interpolacja animacji  
+- Wykrywanie logo Pepsi na obrazach; Python, OpenCV  
+- Analiza wpływu inicjalizacji wektora p_\sigma w algorytmie CMA-ES na benchmarku BBOB  
+
+
+
+## STUDIA INŻYNIERSKIE
 - odwzorowanie gry Bejeweled: Python
 - symulator metra w postaci określania najkrótszych tras dla pasażerów na podstawie grafu: c++, javascript
 - aplikacja webowa do zarządzania bibliotekami: Java, jbdc, Oracle, PL/SQL
@@ -33,6 +46,19 @@ I obtained an Engineer's degree from the Warsaw University of Technology in Comp
 During my studies, I programmed in Python, Java, C#, C++ and Javascript. I learned about Azure cloud management and agile design principles.
 
 Projects:
+
+## MASTER’S DEGREE PROJECTS
+
+- Studying the impact of semi-supervised learning on result quality; Python, scikit-learn  
+- Analysis of models for detecting AI-generated music; Python, librosa, audiomentations  
+- Hyperparameter tuning of a differential evolution algorithm using Q-learning; Python  
+- Projects involving artificial neural networks: regression, classification, image classification, GANs, VAEs, diffusion models, recurrent networks, natural language processing, transformers  
+- Projects applying neural networks to computer graphics: inpainting, super-resolution, tone mapping, neural rendering, animation interpolation  
+- Pepsi logo detection in images; Python, OpenCV  
+- Analysis of the impact of p_\sigma vector initialization in the CMA-ES algorithm on the BBOB benchmark  
+
+
+## ENGINEER’S DEGREE PROJECTS
 - recreation of the game Bejeweled: Python
 - metro simulator in the form of determining the shortest routes for passengers based on a graph: c++, javascript
 - web application for managing libraries: Java, jbdc, SQL: Oracle
