@@ -1,4 +1,10 @@
-[PL]
+# Spis treści / Table of Contents
+
+- [Polski](#PL)
+- [English](#EN)
+
+
+# PL
 
 Obecnie studiuję Informatykę na studiach magisterskich na Politechnice Warszawskiej na 2 semestrze.
 Uzyskałem stopień Inżyniera na Politechnice Warszawskiej z Informatyki.
@@ -38,7 +44,7 @@ Dodatkowo realizowałem mniejsze projekty w pythonie z uczenia maszynowego oraz 
 
 Uczestniczyłem w hackatonie HackArena 2.0 i nasz zespół zajął 4 miejsce.
 
-[EN]
+# EN
 
 I am currently studying Computer Science for a Master's degree at Warsaw University of Technology in the 1st semester.
 I obtained an Engineer's degree from the Warsaw University of Technology in Computer Science. 
