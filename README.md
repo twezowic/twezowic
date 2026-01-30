@@ -21,7 +21,6 @@ Poznałem zarządzanie w chmurze Azure oraz zasady projektowania Agile.
 - Projekty z zakresu sztucznych sieci neuronowych: regresja, klasyfikacja, klasyfikacja obrazów, sieci GAN, VAE, modele dyfuzyjne, sieci rekurencyjne, przetwarzanie języka naturalnego, transformery  
 - Projekty z zastosowaniem sztucznych sieci neuronowych w grafice komputerowej: inpainting, super-resolution, mapowanie tonalne, neural rendering, interpolacja animacji  
 - Wykrywanie logo Pepsi na obrazach; Python, OpenCV  
-- Analiza wpływu inicjalizacji wektora p_\sigma w algorytmie CMA-ES na benchmarku BBOB  
 
 
 
@@ -61,7 +60,6 @@ Projects:
 - Projects involving artificial neural networks: regression, classification, image classification, GANs, VAEs, diffusion models, recurrent networks, natural language processing, transformers  
 - Projects applying neural networks to computer graphics: inpainting, super-resolution, tone mapping, neural rendering, animation interpolation  
 - Pepsi logo detection in images; Python, OpenCV  
-- Analysis of the impact of p_\sigma vector initialization in the CMA-ES algorithm on the BBOB benchmark  
 
 
 ## ENGINEER’S DEGREE PROJECTS
